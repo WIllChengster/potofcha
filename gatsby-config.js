@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Pot of Cha`,
+    description: `We are passionate about bringing tea leaves directly from our growers from Nantou, a province in central Taiwan and jasmine green tea leaves from Vietnam.  With quality tea leaves, we blend them into unique and delicious signature beverages.`,
+    author: `@burninggun`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
